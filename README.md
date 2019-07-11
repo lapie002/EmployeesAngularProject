@@ -9,7 +9,8 @@ This app allows to create, read, update, delete employees from a list.
 mkdir EmployeesAngularProject
 
 ## Get code
-git clone https://github.com/lapie002/EmployeesAngularProject.git /EmployeesAngularProject
+git clone https://github.com/lapie002/EmployeesAngularProject.git EmployeesAngularProject/
+
 cd EmployeesAngularProject
 
 ## Install NPM
