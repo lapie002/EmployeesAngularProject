@@ -10,6 +10,7 @@ mkdir EmployeesAngularProject
 
 ## Get code
 git clone https://github.com/lapie002/EmployeesAngularProject.git /EmployeesAngularProject
+cd EmployeesAngularProject
 
 ## Install NPM
 npm install
