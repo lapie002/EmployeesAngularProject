@@ -28,6 +28,10 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Built-in API server at 
 
+At root directory of the project : 
+
+cd EmployeesAngularProject
+
 Run `json-server --watch db.json`
 
   Resources
