@@ -30,7 +30,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 At root directory of the project : 
 
-cd EmployeesAngularProject
+`cd EmployeesAngularProject`
 
 Run `json-server --watch db.json`
 
@@ -40,6 +40,6 @@ Run `json-server --watch db.json`
   Home
   `http://localhost:3000`
   
-  ## adapted from source found on the internet
-  `https://www.positronx.io/angular-7-httpclient-http-service/`
+## freely adapted from source found on the internet
+`https://www.positronx.io/angular-7-httpclient-http-service/`
 
