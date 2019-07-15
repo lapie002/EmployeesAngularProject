@@ -34,10 +34,10 @@ At root directory of the project :
 
 Run `json-server --watch db.json`
 
-  Resources
+  Resources available locally : 
   `http://localhost:3000/employees`
 
-  Home
+  Home is available at :
   `http://localhost:3000`
   
 ## freely adapted from source found on the internet
